@@ -2,12 +2,12 @@
 
 Let's enable the OpenVPN and begin the room
 <p align="center">
-  <img src="Agent_Sudo/Image/01_Connect_openvpn.png" width="800" alt="Connect_openvpn"/> <br/>
+  <img src="TryHackMe/THM_Rooms/Rooms/Agent_Sudo/Image/01_Connect_openvpn.png" width="800" alt="Connect_openvpn"/> <br/>
 <h6><i>Connect the OpenVpn in your terminal.</i></h6>
 </p>
 
 <p align="center">
-  <img src="Agent_Sudo/Image/02_nmap_scan_IP.png" width="800" alt="nmap scan IP"/> <br/>
+  <img src="TryHackMe/THM_Rooms/Rooms/Agent_Sudo/Image/02_nmap_scan_IP.png" width="800" alt="nmap scan IP"/> <br/>
 <h6><i>Scan the IP address using Nmap.</i></h6>
 </p>
 
